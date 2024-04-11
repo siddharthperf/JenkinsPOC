@@ -1,0 +1,19 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Filename,Latency,Encoding,SampleCount,ErrorCount,IdleTime,Connect
+1698074275650,1423,/-1,200,OK,,text,true,,4417,518,0,0,http://www.webloadmpstore.com/,,1418,iso-8859-1,1,0,0,1008
+0,0,play.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1265,0,0,0,null,,0,ISO-8859-1,1,1,0,0
+0,0,play.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1265,0,0,0,null,,0,ISO-8859-1,1,1,0,0
+0,0,play.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1265,0,0,0,null,,0,ISO-8859-1,1,1,0,0
+1698074451225,634,/login.php-2,200,OK,,text,true,,3571,542,0,0,http://www.webloadmpstore.com/login.php,,631,iso-8859-1,1,0,0,290
+1698074462350,656,/login.php-3,200,OK,,text,true,,3248,808,0,0,http://www.webloadmpstore.com/login.php,,655,iso-8859-1,1,0,0,293
+1698074464098,676,/index.php-4,200,OK,,text,true,,4437,551,0,0,http://www.webloadmpstore.com/index.php,,676,iso-8859-1,1,0,0,294
+0,0,play.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1265,0,0,0,null,,0,ISO-8859-1,1,1,0,0
+0,0,play.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1265,0,0,0,null,,0,ISO-8859-1,1,1,0,0
+0,0,play.googleapis.com:443,,"Received fatal alert: unknown_ca
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1265,0,0,0,null,,0,ISO-8859-1,1,1,0,0
+1698074512211,28,/ME8wTTBLMEkwRzAHBgUrDgMCGgQUOdKLcf4dGbZfs%2FEojyO8BFlcQ5UEFE4iVCAYlebjbuYP%2Bvq5Eu0GF485AhAJ%2BW7ClVVfJHSerx5dztSd-5,200,OK,,text,true,,756,360,0,0,http://ocsp.digicert.com/ME8wTTBLMEkwRzAHBgUrDgMCGgQUOdKLcf4dGbZfs%2FEojyO8BFlcQ5UEFE4iVCAYlebjbuYP%2Bvq5Eu0GF485AhAJ%2BW7ClVVfJHSerx5dztSd,,27,ISO-8859-1,1,0,0,18
+1698074514933,620,/login.php-6,200,OK,,text,true,,3593,564,0,0,http://www.webloadmpstore.com/login.php?event=logout,,619,iso-8859-1,1,0,0,285
